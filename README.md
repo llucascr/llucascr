@@ -1,6 +1,8 @@
 ### Olá! 👋
 
-Sou Lucas estudante de Engenharia de Software na PUC, apaixonado por criar soluções inovadoras e enfrentar novos desafios. Busco sempre aprender e aplicar a tecnologia para transformar realidades e agregar valor às pessoas.
+    Sou Lucas estudante de Engenharia de Software na PUC, apaixonado por criar soluções inovadoras e 
+    enfrentar novos desafios. Busco sempre aprender e aplicar a tecnologia para transformar 
+    realidades e agregar valor às pessoas.
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=llucascr\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
