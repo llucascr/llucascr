@@ -7,10 +7,10 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=llucascr\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
 ## Minhas Skills
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=ED8B00&labelColor=0D1117)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=1572B6&labelColor=0D1117)
+ <img src="https://img.shields.io/badge/JAVA-blue?style=for-the-badge&logo=java&logoColor=black"> <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB"> <img src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-008B8B?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white"> ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=1572B6&labelColor=0D1117)
+
+ 
+
 
 **DevOps**
 
