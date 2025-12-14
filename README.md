@@ -57,6 +57,12 @@ Solução de software para a cadeia produtiva de morangos com foco em transparê
 
 ---
 
+## 📊 GitHub Stats
+
+![Lucas de Campos GitHub Stats](https://github-readme-stats.vercel.app/api?username=llucascr&show_icons=true&theme=dracula)
+
+![Lucas de Campos Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=llucascr&theme=dracula)
+
 ## 💻 Stack Tecnológica
 
 ### Frontend
