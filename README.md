@@ -57,6 +57,35 @@ Solução de software para a cadeia produtiva de morangos com foco em transparê
 
 ---
 
+### 🏗️ [LR Construção - Sistema de Gerenciamento de Obras e Perfuração](https://github.com/llucascr/LR-construcao)
+
+Solução de software para empresas de construção civil e perfuração de solo com foco em consistência financeira e integridade de dados operacionais.
+
+**Tecnologias:**
+* **Backend:** Java 17, Spring Boot 3, Oracle OCI (Autonomous Database), Flyway, Dozer, Maven
+* **Autenticação:** Spring Security + JWT (JSON Web Token)
+* **Frontend:** React.js, Vite, Axios
+* **Dev Tools/Inovação:** Google Antigravity (Agent-based IDE), Swagger (OpenAPI)
+
+**Funcionalidades:**
+* 💰 **Cálculos financeiros blindados** (Regras de negócio processadas no servidor)
+* 🏗️ **Gestão unificada** de Obras Civis e Serviços de Perfuração
+* 🔐 **Controle de acesso seguro** via Token JWT
+* ☁️ **Infraestrutura em Nuvem** com Oracle Autonomous Database
+* 🔄 **Versionamento de banco de dados** automatizado via Flyway
+* 👥 **Cadastro centralizado** de clientes com suporte a múltiplos endereços
+* ⚡ **Interface de alta performance** otimizada com Vite
+* 📄 **Documentação viva** da API via Swagger
+
+**Arquitetura:**
+* Arquitetura Client-Server desacoplada (RESTful)
+* Persistência Relacional robusta e normalizada com Oracle OCI
+* Single Page Application (SPA) moderna construída com React e Vite
+* Padrão de projeto DTO (Data Transfer Object) com mapeamento via Dozer
+* Camada de persistência otimizada com JPA e Queries customizadas
+
+---
+
 ## 📊 GitHub Stats
 
 ![Lucas de Campos GitHub Stats](https://github-readme-stats.vercel.app/api?username=llucascr&show_icons=true&theme=dracula)
